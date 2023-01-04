@@ -1,0 +1,17 @@
+*{
+
+    margin: 0;
+    padding: 0px;
+
+    box-sizing: border-box;
+}
+
+.carousel-item img{
+
+    height: 67vh;
+}
+
+.card-img{
+
+  height:50vh;
+}
